@@ -42,7 +42,7 @@ export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
 ```
-
+gffffffffffffffh
 ### If your shell is `bash`
 1. Open your `.bashrc` with the following command
 ```shell
